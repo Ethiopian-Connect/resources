@@ -42,6 +42,38 @@ Resources
 
 # Social
 
+### Ethio-Canadian Connect
+
+Ethio-Canadians coming together to get to know each other, support, share, and collaborate.
+
+Found on
+
+- [Clubhouse as Ethio-Canadian Connect](https://www.clubhouse.com/club/ethio-canadian-connect)
+
+### KinetBet
+
+This is a safe space focused on creating a culture of healing through mindfulness, conversation and art by always operating with love and compassion. We will be discussing topics that make us uncomfortable but through the discomfort, we will build the culture of healing we so desperately need. So come in, take several deep breaths and let’s get together to challenge what we’ve been thought, unlearn then learn what we need to be the best version of ourselves.
+
+Found on 
+
+- [Clubhouse as KinetBet](https://www.clubhouse.com/club/kinetbet)
+
+### Ethiopian Entrepreneurs
+
+Connect with other entrepreneurs. Share your experience and promote your services/products. Support and learn from each other’s experiences. Feel free to start a room about Entrepreneurship, business opportunities, venture capitalist investment, Angle investment and networking. Help us grow the community by inviting your friends/family that you think will be a great addition.
+
+Found on
+
+- [Clubhouse as Ethiopian Entrepreneurs](https://www.clubhouse.com/club/ethiopian-entreprene)
+
+### The Yoftahe Show
+
+The Yoftahe Show is about celebrating and inspiring the human journey by facilitating honest conversations and in-depth discussion to Inspire, Inform, Entertain, Educate and Empower viewers to transform and improve their lives. Yoftahe Mulatu engages his guests to share their thoughts and expertise, discussing relevant everyday issues ranging from family, career, lifestyle, health, politics and science.
+
+Found on
+
+- [Clubhouse as The Yoftahe Show](https://www.clubhouse.com/club/the-yoftahe-show)
+
 # Political
 
 # Art
