@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+## Ethiopian Connect
 
-You can use the [editor on GitHub](https://github.com/Ethiopian-Connect/resources/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a page to compile all resources and links out there for the Ethiopian community. There are many clubs, websites, and online groups addressing different topics. This is a growing list of communities and sites out there that we deemed were worth posting here. Please PR your resource if you want it to be added.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Finance
 
-### Markdown
+### እቁብ ቤት 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We talk about all things Money. Our goal for the club is for it to be a  space  to talk about personal finance including but not limited to investing, credit,  saving, real estate and much more.
 
-```markdown
-Syntax highlighted code block
+found on 
+ - [Clubhouse as እቁብ ቤት](https://www.clubhouse.com/club/%E1%8A%A5%E1%89%81%E1%89%A5-%E1%89%A4%E1%89%B5) 
 
-# Header 1
-## Header 2
-### Header 3
+# Technology
 
-- Bulleted
-- List
+### Habesha in Tech
 
-1. Numbered
-2. List
+As the global🌎 market moves into more tech-oriented businesses, Ethiopians🇪🇹 & Eritreans🇪🇷 are joining the tech world either through an academic path or making a career change.  We will invite guest speakers working in tech to share with us how they make their decision to join the tech, answer some questions from the audience and provide their advice on how to be successful in the field. In addition, if you have a successful path in Tech you can also share with us how you did it.  In this room, we can help each other by sharing our experience:         
 
-**Bold** and _Italic_ and `Code` text
+❇️  How we enter the tech world        
 
-[Link](url) and ![Image](src)
-```
+❇️  Guide new grads or entrants in their path        
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+❇️  Challenges you are facing The Preferred Language of discussion is Amharic or English and አማርዝኛ 😄
 
-### Jekyll Themes
+found on 
+ - [Clubhouse as Habesha in Tech](https://www.clubhouse.com/club/habesha-in-tech) 
+ - [Habeshaintech website](https://www.Habeshaintech.club)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ethiopian-Connect/resources/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+# Social
 
-### Support or Contact
+# Political
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Art
+
+# General
