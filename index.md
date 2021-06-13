@@ -23,9 +23,22 @@ As the global🌎 market moves into more tech-oriented businesses, Ethiopians�
 
 ❇️  Challenges you are facing The Preferred Language of discussion is Amharic or English and አማርዝኛ 😄
 
-found on 
+Found on 
  - [Clubhouse as Habesha in Tech](https://www.clubhouse.com/club/habesha-in-tech) 
  - [Habeshaintech website](https://www.Habeshaintech.club)
+
+### Digital Asset Ethiopia
+
+We chat about anything Crypto. This group is for educational purpose only. Anything posted in this group shouldn't be taken as a financial advice. Do your own research #DYOR
+
+Found on
+
+- [Clubhouse as Digital Asset Ethiopia](https://www.clubhouse.com/club/digital-asset-ethiopia)
+- [Telegram as Digital Asset Ethiopia](https://t.me/joinchat/TdAFwzlTUrIoU7HQ)
+
+Resources
+
+- [Resources github page][https://digitalassetethiopia.github.io/resources/]
 
 # Social
 
