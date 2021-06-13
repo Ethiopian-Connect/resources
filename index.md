@@ -2,6 +2,21 @@
 
 This is a page to compile all resources and links out there for the Ethiopian community. There are many clubs, websites, and online groups addressing different topics. This is a growing list of communities and sites out there that we deemed were worth posting here. Please PR your resource if you want it to be added.
 
+Content
+
+#### [Finance](#finance)
+ - ###### [እቁብ ቤት](#እቁብ-ቤት)
+
+#### [Technology](#technology)
+ - ###### [Habesha in Tech](#habesha-in-tech)
+ - ###### [Digital Asset Ethiopia](#digital-asset-ethiopia)
+
+#### [Social](#social)
+ - ###### [Ethio-Canadian Connect](#ethio-canadian-connect)
+ - ###### [KinetBet](#kinetbet)
+ - ###### [Ethiopian Entrepreneurs](#ethiopian-entrepreneurs)
+ - ###### [The Yoftahe Show](#the-yoftahe-show)
+
 # Finance
 
 ### እቁብ ቤት 
