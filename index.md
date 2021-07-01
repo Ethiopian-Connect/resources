@@ -38,7 +38,7 @@ Found on
 
 Resources
 
-- [Resources github page][https://digitalassetethiopia.github.io/resources/]
+- [Resources github page](https://digitalassetethiopia.github.io/resources/)
 
 ### Ethiopians In Tech
 
