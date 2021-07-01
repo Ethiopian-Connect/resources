@@ -23,7 +23,7 @@ As the global🌎 market moves into more tech-oriented businesses, Ethiopians�
 
 ❇️  Challenges you are facing The Preferred Language of discussion is Amharic or English and አማርዝኛ 😄
 
-found on 
+Found on 
  - [Clubhouse as Habesha in Tech](https://www.clubhouse.com/club/habesha-in-tech) 
  - [Habeshaintech website](https://www.Habeshaintech.club)
 
