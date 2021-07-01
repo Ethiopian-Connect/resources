@@ -38,7 +38,15 @@ Found on
 
 Resources
 
-- [Resources github page](https://digitalassetethiopia.github.io/resources/)
+- [Resources github page][https://digitalassetethiopia.github.io/resources/]
+
+### Ethiopians In Tech
+
+ኑ - Let’s Empower each other!   “True excellence is a product of synergy”Mack Wilberg.
+
+Found on 
+
+- [Clubhouse as Ethiopians in Tech](https://www.clubhouse.com/club/ethiopians-in-tech)
 
 # Social
 
@@ -74,7 +82,30 @@ Found on
 
 - [Clubhouse as The Yoftahe Show](https://www.clubhouse.com/club/the-yoftahe-show)
 
+### Ethiopian Startups Club
+
+Let's talk about the opportunities, challenges, myths, facts, and many other nuances of the startup and entrepreneurship journey in Ethiopia.
+
+Found on
+
+- [Clubhouse as Ethiopian Startups Club](https://www.clubhouse.com/club/ethiopian-startups-club)
+
 # Political
+
+### Seeking Truth in the HOA
+
+🇪🇷🤝🇪🇹🤝🌳🤝💊🤝🇩🇯🤝🇸🇴
+✡️🤝☦️🤝☪️🤝✝️
+
+United we stand Divided we fall.
+
+A place to discuss and debate about current events and geopolitics in the Horn of Africa. There are many conflicting sources about what’s going on in the Horn and we need a place to debate the truth with civility. Don't Endorse genocide or ethnic cleansing, everyone should talk from a place of wanting peace and keeping the body count to a minimum. Hopefully there are people of all countries participating in the discussions/debates. You can also discuss the different demographics in the HOA and the historical significance of them. We can also debate the different opinions on the demographic percentages in the HOA, like how many Muslims are in Ethiopia or how many Afars are in Djibouti. We can debate the geopolitics in the Horn of Africa and the lies being spread by different parties and leaders, so we can finally understand who are the real agitators in the Horn of Africa.
+
+Make sure to invite and nominate as many people as you can.
+
+Found on 
+
+- [Clubhouse as Seeking Truth in the HOA](https://ios.clubhouse.com/club/seeking-truth-in-the-hoa)
 
 # Art
 
